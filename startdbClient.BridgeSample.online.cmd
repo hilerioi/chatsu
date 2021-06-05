@@ -1,0 +1,1 @@
+mongo "mongodb+srv://cluster0.vttya.mongodb.net/myFirstDatabase" --username test
